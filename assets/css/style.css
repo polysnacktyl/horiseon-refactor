@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* TYPOGRAPHY and STYLE */
+
 body {
     background-color: #d9dcd6;
 }
@@ -40,7 +42,7 @@ h4 {
     font-size: 36px;
 }
 
-/* HEADER */
+/* HEADER, FOOTER, and NAVIGATION */
 
 header {
     padding: 20px;
@@ -48,8 +50,6 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
-/* NAVIGATION */
 
 nav {
     padding-top: 15px;
@@ -68,7 +68,15 @@ nav ul li {
     margin-left: 25px;
 }
 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
 /* IMAGES */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -126,13 +134,4 @@ nav ul li {
 .benefit-point {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-/* FOOTER */
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
 }
