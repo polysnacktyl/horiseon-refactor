@@ -13,7 +13,7 @@ This project sees an HTML file with outdated tags refacted to meet current web a
 
 
 ## Usage
-The page should function fluidly in visual browsers and screen readers. 
+The [live site](https://polysnacktyl.github.io/horiseon-refactor/) should function fluidly in visual browsers and screen readers. 
 
 
 ## Installation 
